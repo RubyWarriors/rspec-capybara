@@ -1,5 +1,5 @@
 require 'rails_helper'
-require 'spec_helper'
+# require 'spec_helper'
 
 RSpec.feature "Create articles" do
   scenario "A user creates a new article" do
